@@ -1,12 +1,12 @@
 {
-    "version": "0.3.4",
+    "version": "0.3.5",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jjuanrivvera/lemon-squeezy-cli/releases/download/v0.3.4/lemon-squeezy-cli_0.3.4_windows_amd64.zip",
+            "url": "https://github.com/jjuanrivvera/lemon-squeezy-cli/releases/download/v0.3.5/lemon-squeezy-cli_0.3.5_windows_amd64.zip",
             "bin": [
                 "lsqueezy.exe"
             ],
-            "hash": "e5bf3f0be809a8f947e9a7910cd55840eccbae489777e4befea34b8d3247bddc"
+            "hash": "5a05e6de367fa32ac9ebf1df2f659d9f6a1ff903366ebe18116613a225c82979"
         }
     }
 }
